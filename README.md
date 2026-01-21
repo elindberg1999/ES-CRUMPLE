@@ -11,7 +11,9 @@
 
 ---
 
-![Workflow](https://i.ibb.co/CpJkDMqV/ES-CRUMPLE-ghv1-01.png)
+<p align="center">
+  <img src="https://i.ibb.co/CpJkDMqV/ES-CRUMPLE-ghv1-01.png" alt="Workflow" />
+</p>
 
 ---
 
