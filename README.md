@@ -11,7 +11,7 @@
 
 ---
 
-![Workflow](https://i.ibb.co/8g4nqzhN/EZddmd-Lite-Horizontal-01.png)
+![Workflow](https://i.ibb.co/CpJkDMqV/ES-CRUMPLE-ghv1-01.png)
 
 ---
 
