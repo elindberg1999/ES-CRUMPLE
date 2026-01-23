@@ -55,7 +55,7 @@ The workflow iteratively:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/EzDDMD.git
+git clone https://github.com/elindberg1999/EzDDMD.git
 cd EzDDMD
 ```
 2. **Create a python environment**
@@ -87,4 +87,5 @@ pip install numpy pandas matplotlib tensorflow scikit-learn MDAnalysis
 - [MDAnalysis](https://www.mdanalysis.org) – Python library for molecular dynamics analysis
 - [TensorFlow](https://www.tensorflow.org) – Machine learning framework used for the autoencoder
 - [Scikit-learn DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan) – Clustering algorithm for latent embeddings
+
 - [Amber](https://ambermd.org) – Molecular dynamics engine for simulations
