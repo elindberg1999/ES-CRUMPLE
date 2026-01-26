@@ -68,6 +68,22 @@ conda activate escrumple
 ```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn MDAnalysis
 ```
+> **Note:** You will need to change the file anmes in main.sh. "psf" should be your relative path to your parameter file, "template_folder" should keep all files necessary for the simulation to run (.mdin files and analogs in other software), "init_coord" should be just the file path to your strating structure, sim_config is the name of your .mdin file or equivalent.
+
+Example:
+
+```bash
+# Source config
+n_rounds=250
+n_sims=48
+psf=../Structures/CycAsol.parm7
+template_folder=../Template/
+init_coord=eq3.rst
+sim_config=DDMD.in
+# This has to match the output of your simulations
+sample_dcd=DDMD.mdcrd
+```
+
 
 ## Scripts Description
 
@@ -89,3 +105,4 @@ pip install numpy pandas matplotlib tensorflow scikit-learn MDAnalysis
 - [Scikit-learn DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan) – Clustering algorithm for latent embeddings
 
 - [Amber](https://ambermd.org) – Molecular dynamics engine for simulations
+
