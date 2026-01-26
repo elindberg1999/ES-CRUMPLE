@@ -55,8 +55,8 @@ The workflow iteratively:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/elindberg1999/EzDDMD.git
-cd EzDDMD
+git clone https://github.com/elindberg1999/ES-CRUMPLE.git
+cd ES-CRUMPLE
 ```
 2. **Create a python environment**
 ```bash
@@ -107,6 +107,7 @@ sample_dcd=DDMD.mdcrd
 - [Scikit-learn DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan) – Clustering algorithm for latent embeddings
 
 - [Amber](https://ambermd.org) – Molecular dynamics engine for simulations
+
 
 
 
