@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="[https://i.ibb.co/CpJkDMqV/ES-CRUMPLE-ghv1-01.png](https://i.ibb.co/nqfrNhjQ/EZddmd-Lite-Horizontal-01.png)" alt="Workflow" />
+  <img src="https://i.ibb.co/nqfrNhjQ/EZddmd-Lite-Horizontal-01.png" alt="Workflow" />
 </p>
 
 ---
