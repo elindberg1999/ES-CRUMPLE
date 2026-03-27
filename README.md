@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/nqfrNhjQ/EZddmd-Lite-Horizontal-01.png" alt="Workflow" />
+  <img src="https://i.ibb.co/spVxZPB1/EZddmd-Lite-Horizontal.jpg" alt="Workflow" />
 </p>
 
 ---
